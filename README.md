@@ -11,7 +11,7 @@
 - Introdução aos métodos de transferência de dados (GET e POST);
 - Construção de formulários em HTML;
 - Tags de agrupamento (fieldset e legend);
-- Contrução de checkbox customizado e assecível;
+- Contrução de checkbox customizado e acessível;
 - Validação de campos e submissão do formulário.
 
 #### 👉🏽 Clique **[aqui](https://eduardofariasdev.github.io/stage03-challenge02/)** e abra esse projeto no seu seu navegador.
